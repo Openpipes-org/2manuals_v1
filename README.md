@@ -1,1 +1,1 @@
-# 2manuals_v1
+# 2 manuals console "little" (ver.1)
