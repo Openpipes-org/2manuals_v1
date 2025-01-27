@@ -1,1 +1,1 @@
-# 2 manuals console "little" (ver.1)
+# 2 manuals console "little" (ver. 1)
