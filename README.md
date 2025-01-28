@@ -6,3 +6,4 @@
 
 CAD files of 2 manuals console (version 1)
 
+Download the latest CAD files in the <a href="#">releases</a> section.
