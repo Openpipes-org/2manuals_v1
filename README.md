@@ -6,4 +6,4 @@
 
 CAD files of 2 manuals console (version 1)
 
-Download the latest CAD files in the <a href="#">releases</a> section.
+Download the latest CAD files in the <a href="https://github.com/Openpipes-org/2manuals_v1/releases/latest">releases</a> section.
